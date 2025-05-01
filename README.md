@@ -41,5 +41,5 @@ supervisor.process_leave_request(leave_days)
 Output
 ```nginx
 Employee requests 10 days of leave.
-Manager approved the leave.
+Director approved the leave.
 ```
